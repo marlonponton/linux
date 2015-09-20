@@ -1,0 +1,56 @@
+# -------------
+# Software
+# -------------
+
+# Customization
+- dconf-tool
+- elementary-tweaks
+
+
+# Multimedia
+- darktable
+- incscape
+- gimp
+- vlc
+- a/v codecs
+
+
+# Cloud
+- dropbox
+- copy
+- github (generate rsa keys)
+- google
+- flickr
+- linkedin
+- microsoft
+- facebook
+
+
+# Office
+- libre office
+- chromium
+- firefox
+- thunderbird
+
+
+# Development
+- mysql workbench
+- sublime
+- adb
+- php
+- nodejs
+- grunt, bower
+- wireshark
+- nmap
+
+
+# Virtualisation
+- virtualbox
+- libvirt manager
+- docker
+- lxc
+
+
+# ---------------
+# Configuration
+# ---------------
